@@ -25,7 +25,11 @@ Gunakan kreativitas kalian untuk mengatur warna, font, layout, efek hover, dan e
 
 4. **Tidak perlu menambahkan JavaScript** pada tugas ini.
 
-5. Pastikan tampilan website kalian:
+5. **Diperbolehkan menggunakan AI, dengan syarat**
+   - Kalian paham apa yang dikerjakan
+   - Cantumkan command/prompt yang kalian gunakan pada file README.md kalian
+
+7. Pastikan tampilan website kalian:
    - Konsisten antarbagian.  
    - Rapi dan proporsional.  
    - Memiliki tema warna yang sesuai dengan semangat “Go Green” 🌱
@@ -53,6 +57,7 @@ Setelah menyelesaikan tugas ini, kalian diharapkan mampu:
 - Kumpulkan dalam satu folder/repositori berisi:
   - `index.html`
   - `style.css`
+  - `README.md`
   - Folder `images` (jika menambahkan gambar tambahan)
 - Upload hasilnya ke **Repositori Github** kalian masing-masing.
 - Kumpulkan link repositori ke grup kelompok
